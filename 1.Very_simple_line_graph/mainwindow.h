@@ -4,7 +4,6 @@
 #include <QMainWindow>
 #include "jkqtplotter/graphs/jkqtplines.h"
 #include "jkqtplotter/jkqtplotter.h"
-
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
